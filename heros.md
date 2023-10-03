@@ -42,6 +42,17 @@ A big shoutout to our amazing contributors! 🎉
             </a>
         </td>
     </tr>
+    <tr>
+     <td align="center">
+            <a href="https://github.com/ChildEater69">
+                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
+                <br>
+                <strong>Avdhesh Kumar Sharma 😊</strong>
+                <br>
+                🌟 Delhi, India | Software Developer and Traveler
+            </a>
+        </td>
+    </tr>
     <!-- Add more rows and contributors as needed -->
 </table>
 <!-- End of Contributor Table -->
