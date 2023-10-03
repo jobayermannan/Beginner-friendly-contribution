@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-#contributor-container {
+#contributors {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -10,7 +10,7 @@ body {
 }
 
 .contributor {
-    border: 1px solid #723333;
+    border: 1px solid #000;
     padding: 10px;
     width: calc(33.33% - 20px);
 }
@@ -19,8 +19,5 @@ body {
     width: 100%;
     height: auto;
 }
- .XC{
-           border-radius: 20px;
-           color: rgb(181, 129, 61);
- }
+
  
