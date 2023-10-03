@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#contributor-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.contributor {
+    border: 1px solid #723333;
+    padding: 10px;
+    width: calc(33.33% - 20px);
+}
+
+.contributor img {
+    width: 100%;
+    height: auto;
+}
+ .XC{
+           border-radius: 20px;
+           color: rgb(181, 129, 61);
+ }
+ 
