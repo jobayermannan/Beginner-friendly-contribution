@@ -25,6 +25,11 @@ A big shoutout to our amazing contributors! 🎉
                 <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/ChildEater69">
+                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
+            </a>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -39,6 +44,9 @@ A big shoutout to our amazing contributors! 🎉
         <td align="center">
             <a href="https://github.com/ChildEater69"><strong>Avdhesh Kumar Sharma 😊</strong></a>
         </td>
+        <td align="center">
+            <a href="https://github.com/ChildEater69"><strong>Avdhesh Kumar Sharma 😊</strong></a>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -49,6 +57,9 @@ A big shoutout to our amazing contributors! 🎉
         </td>
         <td align="center">
             🏖️ Barcelona, Spain | GitHub Superstar
+        </td>
+        <td align="center">
+            🌟 Delhi, India | Software Developer and Traveler
         </td>
         <td align="center">
             🌟 Delhi, India | Software Developer and Traveler
