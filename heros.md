@@ -43,6 +43,17 @@ A big shoutout to our amazing contributors! 🎉
             🏖️ Barcelona, Spain | GitHub Superstar
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            🚀 Paris, France | 💻 Coding Wizard
+        </td>
+        <td align="center">
+            😍 India | Emoji Lover and Code Enthusiast
+        </td>
+        <td align="center">
+            🏖️ Barcelona, Spain | GitHub Superstar
+        </td>
+    </tr>
 </table>
 <!-- End of Contributor Table -->
 
