@@ -44,39 +44,39 @@ A big shoutout to our fantastic contributors! 🎉
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/anothercontributor1">
-                <img src="https://github.com/anothercontributor1.png" width="150" height="150" alt="Another Contributor 1">
+            <a href="https://github.com/harshsinghcs">
+                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Another Contributor 1</strong>
+                <strong>Harsh Singh 😍</strong>
                 <br>
-                🎨 New York, USA | Creative Designer
+                😍 India | Emoji Lover and Code Enthusiast
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/anothercontributor2">
-                <img src="https://github.com/anothercontributor2.png" width="150" height="150" alt="Another Contributor 2">
+            <a href="https://github.com/harshsinghcs">
+                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Another Contributor 2 😎</strong>
+                <strong>Harsh Singh 😍</strong>
                 <br>
-                📚 London, UK | Bookworm and Developer
+                😍 India | Emoji Lover and Code Enthusiast
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/anothercontributor3">
-                <img src="https://github.com/anothercontributor3.png" width="150" height="150" alt="Another Contributor 3">
+            <a href="https://github.com/harshsinghcs">
+                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Another Contributor 3</strong>
+                <strong>Harsh Singh 😍</strong>
                 <br>
-                🎯 San Francisco, USA | Tech Enthusiast
+                😍 India | Emoji Lover and Code Enthusiast
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/anothercontributor4">
-                <img src="https://github.com/anothercontributor4.png" width="150" height="150" alt="Another Contributor 4">
+       <td align="center">
+            <a href="https://github.com/harshsinghcs">
+                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Another Contributor 4 🌟</strong>
+                <strong>Harsh Singh 😍</strong>
                 <br>
-                🌆 Los Angeles, USA | Code Innovator
+                😍 India | Emoji Lover and Code Enthusiast
             </a>
         </td>
     </tr>
