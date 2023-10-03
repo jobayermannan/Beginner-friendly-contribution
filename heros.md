@@ -1,6 +1,6 @@
 # Contributors
 
-A big shoutout to our amazing contributors! 🎉
+A big shoutout to our fantastic contributors! 🎉
 
 <!-- Contributor Table -->
 <table>
@@ -41,35 +41,49 @@ A big shoutout to our amazing contributors! 🎉
                 🌟 Delhi, India | Software Developer and Traveler
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/ChildEater69">
-                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
-                <br>
-                <strong>Avdhesh Kumar Sharma 😊</strong>
-                <br>
-                🌟 Delhi, India | Software Developer and Traveler
-            </a>
-        </td>
-       
     </tr>
     <tr>
-     <td align="center">
-            <a href="https://github.com/ChildEater69">
-                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
+        <td align="center">
+            <a href="https://github.com/anothercontributor1">
+                <img src="https://github.com/anothercontributor1.png" width="150" height="150" alt="Another Contributor 1">
                 <br>
-                <strong>Avdhesh Kumar Sharma 😊</strong>
+                <strong>Another Contributor 1</strong>
                 <br>
-                🌟 Delhi, India | Software Developer and Traveler
+                🎨 New York, USA | Creative Designer
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/anothercontributor2">
+                <img src="https://github.com/anothercontributor2.png" width="150" height="150" alt="Another Contributor 2">
+                <br>
+                <strong>Another Contributor 2 😎</strong>
+                <br>
+                📚 London, UK | Bookworm and Developer
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/anothercontributor3">
+                <img src="https://github.com/anothercontributor3.png" width="150" height="150" alt="Another Contributor 3">
+                <br>
+                <strong>Another Contributor 3</strong>
+                <br>
+                🎯 San Francisco, USA | Tech Enthusiast
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/anothercontributor4">
+                <img src="https://github.com/anothercontributor4.png" width="150" height="150" alt="Another Contributor 4">
+                <br>
+                <strong>Another Contributor 4 🌟</strong>
+                <br>
+                🌆 Los Angeles, USA | Code Innovator
             </a>
         </td>
     </tr>
-    <!-- Add more rows and contributors as needed -->
 </table>
 <!-- End of Contributor Table -->
 
 <!-- Thank You Message -->
 <div align="center">
-    Thank you for your contributions! 🙌
+    Thank you all for your contributions! 🙌
 </div>
-
-
