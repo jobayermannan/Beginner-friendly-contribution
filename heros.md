@@ -42,44 +42,8 @@ A big shoutout to our fantastic contributors! 🎉
             </a>
         </td>
     </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
-                <br>
-                <strong>Harsh Singh 😍</strong>
-                <br>
-                😍 India | Emoji Lover and Code Enthusiast
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
-                <br>
-                <strong>Harsh Singh 😍</strong>
-                <br>
-                😍 India | Emoji Lover and Code Enthusiast
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
-                <br>
-                <strong>Harsh Singh 😍</strong>
-                <br>
-                😍 India | Emoji Lover and Code Enthusiast
-            </a>
-        </td>
-       <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
-                <br>
-                <strong>Harsh Singh 😍</strong>
-                <br>
-                😍 India | Emoji Lover and Code Enthusiast
-            </a>
-        </td>
-    </tr>
+   
+    
 </table>
 <!-- End of Contributor Table -->
 
