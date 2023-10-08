@@ -41,6 +41,7 @@ A big shoutout to our fantastic contributors! 🎉
                 🌟 Delhi, India | Software Developer and Traveler
             </a>
         </td>
+      
     </tr>
    
     
