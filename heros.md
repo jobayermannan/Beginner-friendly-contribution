@@ -15,12 +15,12 @@ A big shoutout to our fantastic contributors! 🎉
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
+            <a href="https://github.com/jobayermannan">
+                <img src="https://github.com/jobayermannan" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Harsh Singh 😍</strong>
+                <strong>JOBayer Mannan🦅</strong>
                 <br>
-                😍 India | Emoji Lover and Code Enthusiast
+                ![Alt text](image.png) Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
             </a>
         </td>
         <td align="center">
@@ -41,8 +41,8 @@ A big shoutout to our fantastic contributors! 🎉
                 🌟 Delhi, India | Software Developer and Traveler
             </a>
         </td>
-      
-    </tr>
+    </tr>  
+    
    
     
 </table>
