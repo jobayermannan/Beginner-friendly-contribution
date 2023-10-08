@@ -6,12 +6,12 @@ A big shoutout to our fantastic contributors! 🎉
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/fernandezbaptiste">
-                <img src="https://github.com/fernandezbaptiste.png" width="150" height="150" alt="Baptiste Fernandez">
+            <a href="https://github.com/coding-struggles">
+                <img src="https://avatars.githubusercontent.com/u/146979710?v=4" width="150" height="150" alt="Coding Struggles">
                 <br>
-                <strong>Baptiste Fernandez</strong>
+                <strong>Coding Struggles</strong>
                 <br>
-                🚀 Paris, France | 💻 Coding Wizard
+                🚀 Dhaka, Bangladesh | 💻 Coding Wizard
             </a>
         </td>
         <td align="center">
