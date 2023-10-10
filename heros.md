@@ -42,16 +42,7 @@ A big shoutout to our fantastic contributors! 🎉
               Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/jobayermannan">
-                <img src="https://avatars.githubusercontent.com/u/121758551?v=4" width="150" height="150" alt="Harsh Singh">
-                <br>
-                <strong>JOBayer Mannan🦅</strong>
-                <br>
-              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
-            </a>
-        </td>
-       </tr>  
+        </tr>  
     
    
     
