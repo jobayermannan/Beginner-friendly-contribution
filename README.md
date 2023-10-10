@@ -7,7 +7,7 @@
 
 Welcome to **Beginner-Friendly-Contribution**: Your gateway to open-source. We offer accessible tasks, a friendly community, and learning opportunities. Join us to start your open-source journey! 🚀🌟🤗
 
-## Repository Link:** [Beginner Friendly-Contribution Repository](https://github.com/jobayermannan/Beginner-friendly-contribution)
+## Repository Link: [Beginner-Friendly-Contribution](https://github.com/jobayermannan/Beginner-friendly-contribution)
 
 
 ## Introduction 📚
