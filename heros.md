@@ -33,12 +33,7 @@ A big shoutout to our fantastic contributors! 🎉
 <!-- End of Contributor heros  Table -->
 <p align="center">
     Salute to Our Awesome Contributors
-    Thank you for your incredible contributions! You're making this project truly special. 🙌
-
-
-
-
-   Let's keep the awesomeness going 🦄
+Let's keep the awesomeness going 🦄
 </p>
 
 
