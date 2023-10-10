@@ -21,7 +21,7 @@
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-                🌏 Mirpur,Dhaka <br>💻 Web dev Enthusiast
+                🌏 Mirpur,Dhaka |💻 Web dev Enthusiast
             </a>
         </td>
         <td align="center">
@@ -30,7 +30,7 @@
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast.
+             .................................
             </a>
         </td>
         <td align="center">
