@@ -72,10 +72,10 @@ You have successfully made your first contribution to the "beginner friendly-con
 ## Encouraging Improvement##
 We encourage contributors to not only make their first contribution but also to actively participate in the improvement of this repository. You can:
 
-   1. Suggest Enhancements: Share your ideas for improving the 
-   2. project in the Discussions section.
-   3. Report Bugs: If you come across any issues or bugs, report 
-   4. them in the Issues section.
-   5. *Review and Comment:* Participate in the review process of   other contributions and provide constructive feedback.
+   1. **Suggest Enhancements:** Share your ideas for improving the 
+    project in the Discussions section.
+   3. **Report Bugs:** If you come across any issues or bugs, report 
+   them in the Issues section.
+   5. **Review and Comment:** Participate in the review process of   other contributions and provide constructive feedback.
 
 Happy contributing! 🌟👏
