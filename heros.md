@@ -2,7 +2,8 @@
 
 A big shoutout to our fantastic contributors! 🎉
 
-<!-- Contributor Table -->
+<!-- contributor heros table  -->
+<div>
 <table>
     <tr>
         <td align="center">
@@ -20,35 +21,28 @@ A big shoutout to our fantastic contributors! 🎉
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-                ![Alt text](image.png) Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
+              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
             </a>
         </td>
-        <td align="center">
-            <a href="https://github.com/gerdaespinosa">
-                <img src="https://github.com/gerdaespinosa.png" width="150" height="150" alt="Gerda Espinosa">
-                <br>
-                <strong>Gerda Espinosa</strong>
-                <br>
-                🏖️ Barcelona, Spain | GitHub Superstar
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/ChildEater69">
-                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
-                <br>
-                <strong>Avdhesh Kumar Sharma 😊</strong>
-                <br>
-                🌟 Delhi, India | Software Developer and Traveler
-            </a>
-        </td>
-    </tr>  
+       </tr>  
     
    
     
 </table>
-<!-- End of Contributor Table -->
-
-<!-- Thank You Message -->
-<div align="center">
-    Thank you all for your contributions! 🙌
 </div>
+<!-- End of Contributor heros  Table -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/121758551?v=4" alt="Awesome Contributors" width="400">
+</p>
+
+# 🚀 Salute to Our Awesome Contributors 🚀
+
+Thank you for your incredible contributions! You're making this project truly special. 🙌
+
+![Awesome Badge](https://img.shields.io/badge/Awesome-Yes-brightgreen)
+
+
+
+Let's keep the awesomeness going 🦄
+
+
