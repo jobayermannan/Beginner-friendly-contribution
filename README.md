@@ -22,11 +22,21 @@ This repository is designed to help beginners make their first contribution to o
 2. Copy the URL of your forked repository. 🔗
 3. Open your terminal and use the git clone command to clone the repository to your local machine using the copied URL. 💻
 
-### Step 2: Update the "heroes.md" File ✍️
+#### Step 2: Update the "heros.md" File ✍️
 
 1. Navigate to the root of the cloned repository. 📂
-2. Open the "heroes.md" file in your text editor. 📝
-3. Find the last `<td>` tag in the file and copy it. 📋
+2. Open the "heros.md" file in your text editor. 📝
+3. Find the last `<td>` content and copy the data within the `<td>` element, including the `<td>` tag itself.
+
+   Example:
+   ```html
+   <td>
+       <!-- Your GitHub Avatar Image -->
+       <img src="https://github.com/your-username.png" alt="Your Name" width="100px" height="100px">
+   
+       <!-- Your GitHub Profile Link -->
+       <a href="https://github.com/your-username">Your Name</a>
+   </td>
 4. Paste the copied `<td>` tag directly underneath the last one (you can use ALT+SHIFT+down arrow for this). 🔄
 5. Modify the information within this new `<td>` tag to match your own GitHub profile. Update the `<a>` tag, image tag, and name as needed. ✨
    
@@ -37,6 +47,8 @@ This repository is designed to help beginners make their first contribution to o
 1. Navigate to the "script" folder and open the "script.js" file. 📁
 2. Inside the "contributors" array, you will find a list of contributors. Copy the last object in the array. 📋
 3. Paste the copied object at the end of the array. 🚶
+Here is an example: `{ name: 'jobayermannan', github: 'https://api.github.com/users/jobayermannan' }`
+
 4. Replace the "name" field with your GitHub username and the "github" field with your GitHub URL. 🌐
 
 ### Step 4: Commit and Push Your Changes 🚢
@@ -55,5 +67,13 @@ This repository is designed to help beginners make their first contribution to o
 ## Congratulations! 🎉
 
 You have successfully made your first contribution to the "beginner friendly-contribution" repository. If you encounter any difficulties or have questions, feel free to reach out to us at jobayermannan777@gmail.com. For a more detailed tutorial, you can refer to this [tutorial link](https://example.com/tutorial) for better understanding. 🙌
+
+
+## Encouraging Improvement##
+We encourage contributors to not only make their first contribution but also to actively participate in the improvement of this repository. You can:
+
+    Suggest Enhancements: Share your ideas for improving the project in the Discussions section.
+    Report Bugs: If you come across any issues or bugs, report them in the Issues section.
+    Review and Comment: Participate in the review process of other contributions and provide constructive feedback.
 
 Happy contributing! 🌟👏

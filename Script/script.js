@@ -6,7 +6,7 @@ const contributorList = document.getElementById('contributor-list');
 const contributors = [
    
     { name: 'jobayermannan', github: 'https://api.github.com/users/jobayermannan' },
-    { name: 'coding-struggles', github: 'https://api.github.com/users/coding-struggles' },
+ { name: 'coding-struggles', github: 'https://api.github.com/users/coding-struggles' },   
     // Add more contributors as needed
 ];
 
