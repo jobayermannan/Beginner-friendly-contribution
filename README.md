@@ -69,7 +69,7 @@ Here is an example: `{ name: 'jobayermannan', github: 'https://api.github.com/us
 You have successfully made your first contribution to the "beginner friendly-contribution" repository. If you encounter any difficulties or have questions, feel free to reach out to us at jobayermannan777@gmail.com. For a more detailed tutorial, you can refer to this [tutorial link](https://example.com/tutorial) for better understanding. 🙌
 
 
-## Encouraging Improvement##
+## Encouraging Improvement 📈 
 We encourage contributors to not only make their first contribution but also to actively participate in the improvement of this repository. You can:
 
    1. **Suggest Enhancements:** Share your ideas for improving the 
