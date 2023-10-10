@@ -6,9 +6,8 @@
 [![Beginner-Friendly Contribution](https://img.shields.io/badge/Visit-Beginner--Friendly%20Contribution-green?style=for-the-badge&logo=appveyor)](https://beginner-friendly-contribution.netlify.app/)
 
 Welcome to **Beginner-Friendly-Contribution**: Your gateway to open-source. We offer accessible tasks, a friendly community, and learning opportunities. Join us to start your open-source journey! 🚀🌟🤗
-# Beginner Friendly Contribution Repository 🚀
+**Repository Link:** [Beginner Friendly-Contribution Repository](https://github.com/jobayermannan/Beginner-friendly-contribution)
 
-Welcome to the "beginner friendly-contribution" Repository! 🌟
 
 ## Introduction 📚
 
