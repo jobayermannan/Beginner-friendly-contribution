@@ -1,54 +1,61 @@
 # Contributors
 
-A big shoutout to our fantastic contributors! 🎉
+# A big shoutout to our fantastic contributors! 🎉
 
-<!-- Contributor Table -->
+<!-- contributor heros table  -->
+<div>
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/fernandezbaptiste">
-                <img src="https://github.com/fernandezbaptiste.png" width="150" height="150" alt="Baptiste Fernandez">
+            <a href="https://github.com/coding-struggles">
+                <img src="https://avatars.githubusercontent.com/u/146979710?v=4" width="150" height="150" alt="Coding Struggles">
                 <br>
-                <strong>Baptiste Fernandez</strong>
+                <strong>Coding Struggles</strong>
                 <br>
-                🚀 Paris, France | 💻 Coding Wizard
+                🌏 Dhaka, Bangladesh | 💻 Coding Wizard
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/harshsinghcs">
-                <img src="https://github.com/harshsinghcs.png" width="150" height="150" alt="Harsh Singh">
+            <a href="https://github.com/jobayermannan">
+                <img src="https://avatars.githubusercontent.com/u/121758551?v=4" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Harsh Singh 😍</strong>
+                <strong>JOBayer Mannan🦅</strong>
                 <br>
-                😍 India | Emoji Lover and Code Enthusiast
+                🌏 Mirpur,Dhaka |💻 Web dev Enthusiast
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/gerdaespinosa">
-                <img src="https://github.com/gerdaespinosa.png" width="150" height="150" alt="Gerda Espinosa">
+            <a href="https://github.com/jobayermannan">
+                <img src="https://avatars.githubusercontent.com/u/121758551?v=4" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Gerda Espinosa</strong>
+                <strong>JOBayer Mannan🦅</strong>
                 <br>
-                🏖️ Barcelona, Spain | GitHub Superstar
+           🌏 Mirpur,Dhaka |💻 Web dev Enthusiast
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/ChildEater69">
-                <img src="https://github.com/ChildEater69.png" width="150" height="150" alt="Avdhesh Kumar Sharma">
+            <a href="https://github.com/jobayermannan">
+                <img src="https://avatars.githubusercontent.com/u/121758551?v=4" width="150" height="150" alt="Harsh Singh">
                 <br>
-                <strong>Avdhesh Kumar Sharma 😊</strong>
+                <strong>JOBayer Mannan🦅</strong>
                 <br>
-                🌟 Delhi, India | Software Developer and Traveler
+             🌏 Mirpur,Dhaka |💻 Web dev Enthusiast
             </a>
         </td>
-      
-    </tr>
+        </tr>  
+    
    
     
 </table>
-<!-- End of Contributor Table -->
-
-<!-- Thank You Message -->
-<div align="center">
-    Thank you all for your contributions! 🙌
 </div>
+<!-- End of Contributor heros  Table -->
+<p align="center">
+    Salute to Our Awesome Contributors।
+🦅Let's keep the awesomeness going 🦄
+</p>
+
+
+
+
+
+
