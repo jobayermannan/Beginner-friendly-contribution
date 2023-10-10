@@ -32,17 +32,17 @@ A big shoutout to our fantastic contributors! 🎉
 </div>
 <!-- End of Contributor heros  Table -->
 <p align="center">
-  # 🚀 Salute to Our Awesome Contributors 🚀
+    Salute to Our Awesome Contributors
+    Thank you for your incredible contributions! You're making this project truly special. 🙌
+
+
+
+
+   Let's keep the awesomeness going 🦄
 </p>
 
 
 
-Thank you for your incredible contributions! You're making this project truly special. 🙌
 
-![Awesome Badge](https://img.shields.io/badge/Awesome-Yes-brightgreen)
-
-
-
-Let's keep the awesomeness going 🦄
 
 
