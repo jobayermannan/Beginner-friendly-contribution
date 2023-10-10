@@ -12,7 +12,7 @@
                 <br>
                 <strong>Coding Struggles</strong>
                 <br>
-                🌏 Dhaka, Bangladesh | 💻 Coding Wizard
+                🌏 Dhaka, Bangladesh <br> 💻 Coding Wizard
             </a>
         </td>
         <td align="center">
@@ -21,7 +21,7 @@
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-                🌏 Mirpur,Dhaka |😍 Emoji Lover |💻 Web dev Enthusiast
+                🌏 Mirpur,Dhaka <br>💻 Web dev Enthusiast
             </a>
         </td>
         <td align="center">
