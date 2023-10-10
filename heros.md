@@ -32,10 +32,10 @@ A big shoutout to our fantastic contributors! 🎉
 </div>
 <!-- End of Contributor heros  Table -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121758551?v=4" alt="Awesome Contributors" width="400">
+  # 🚀 Salute to Our Awesome Contributors 🚀
 </p>
 
-# 🚀 Salute to Our Awesome Contributors 🚀
+
 
 Thank you for your incredible contributions! You're making this project truly special. 🙌
 
