@@ -12,7 +12,7 @@
                 <br>
                 <strong>Coding Struggles</strong>
                 <br>
-                🌏 Dhaka, Bangladesh <br> 💻 Coding Wizard
+                🌏 Dhaka, Bangladesh | 💻 Coding Wizard
             </a>
         </td>
         <td align="center">
