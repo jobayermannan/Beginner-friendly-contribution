@@ -1,6 +1,6 @@
 # Contributors
 
-A big shoutout to our fantastic contributors! 🎉
+# A big shoutout to our fantastic contributors! 🎉
 
 <!-- contributor heros table  -->
 <div>
@@ -12,7 +12,7 @@ A big shoutout to our fantastic contributors! 🎉
                 <br>
                 <strong>Coding Struggles</strong>
                 <br>
-                🚀 Dhaka, Bangladesh | 💻 Coding Wizard
+                🌏 Dhaka, Bangladesh | 💻 Coding Wizard
             </a>
         </td>
         <td align="center">
@@ -21,7 +21,7 @@ A big shoutout to our fantastic contributors! 🎉
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
+                🌏 Mirpur,Dhaka |😍 Emoji Lover |💻 Web dev Enthusiast
             </a>
         </td>
         <td align="center">
@@ -30,7 +30,7 @@ A big shoutout to our fantastic contributors! 🎉
                 <br>
                 <strong>JOBayer Mannan🦅</strong>
                 <br>
-              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast
+              Mirpur,Dhaka | Emoji Lover and Web dev Enthusiast.
             </a>
         </td>
         <td align="center">
