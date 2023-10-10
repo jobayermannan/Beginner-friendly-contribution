@@ -32,8 +32,8 @@ A big shoutout to our fantastic contributors! 🎉
 </div>
 <!-- End of Contributor heros  Table -->
 <p align="center">
-    Salute to Our Awesome Contributors
-Let's keep the awesomeness going 🦄
+    Salute to Our Awesome Contributors।
+🦅 Let's keep the awesomeness going 🦄
 </p>
 
 
