@@ -7,6 +7,7 @@ const contributors = [
    
     { name: 'jobayermannan', github: 'https://api.github.com/users/jobayermannan' },
  { name: 'coding-struggles', github: 'https://api.github.com/users/coding-struggles' },   
+ { name: 'Code-x-777', github: 'https://api.github.com/users/Code-x-777' },   
     // Add more contributors as needed
 ];
 
