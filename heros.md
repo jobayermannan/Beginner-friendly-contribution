@@ -43,7 +43,17 @@
             </a>
         </td>
         </tr>  
-    
+    <tr>
+      <td align="center">
+            <a href="https://github.com/Code-x-777">
+                <img src="https://avatars.githubusercontent.com/u/147522307?v=4" width="150" height="150" alt="Harsh Singh">
+                <br>
+                <strong>JOBayer Mannan🦅</strong>
+                <br>
+             🌏 Mirpur,Dhaka |💻 Web dev Enthusiast
+            </a>
+        </td>
+    <tr/>
    
     
 </table>
