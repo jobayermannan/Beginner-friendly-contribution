@@ -17,7 +17,7 @@
   🌏 Xenon  | Open World
 - [Mahenur-Islam](https://github.com/mahenur-islam)  
   <img src="https://avatars.githubusercontent.com/u/137179831?v=4" width="100" height="100" alt="Mahenur-Islam"/>  
-  🌏 Remote dev | FullStack
+  🌏 Remote dev | Explorer 
 
 - [Abdul Kaiyum Fahim](https://github.com/kaiyumdev)  
   <img src="https://avatars.githubusercontent.com/u/76748971?v=4" width="100" height="100" alt="Abdul Kaiyum Fahim"/>  
