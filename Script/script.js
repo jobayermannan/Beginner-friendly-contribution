@@ -9,7 +9,7 @@ const contributors = [
  { name: 'coding-struggles', github: 'https://api.github.com/users/coding-struggles' },   
  { name: 'Code-x-777', github: 'https://api.github.com/users/Code-x-777' },   
  { name: 'kaiyumdev', github: 'https://api.github.com/users/kaiyumdev' },  
- { name: 'mahenur-islam', github: 'https://github.com/mahenur-islam' },  
+ { name: 'mahenur-islam', github: 'https://api.github.com/users/mahenur-islam' },  
     // Add more contributors as needed
 ];
 
