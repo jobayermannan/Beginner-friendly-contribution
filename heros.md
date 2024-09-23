@@ -14,11 +14,10 @@
 
 - [Code-x-777](https://github.com/Code-x-777)  
   <img src="https://avatars.githubusercontent.com/u/147522307?v=4" width="100" height="100" alt="Code-x-777"/>  
-  🌏 Mirpur, Dhaka | 💻 Web Dev Enthusiast
-
+  🌏 Xenon  | Open World
 - [Mahenur-Islam](https://github.com/mahenur-islam)  
   <img src="https://avatars.githubusercontent.com/u/137179831?v=4" width="100" height="100" alt="Mahenur-Islam"/>  
-  🌏 Mirpur, Dhaka | 💻 Web Dev Enthusiast
+  🌏 Remote dev | FullStack
 
 - [Abdul Kaiyum Fahim](https://github.com/kaiyumdev)  
   <img src="https://avatars.githubusercontent.com/u/76748971?v=4" width="100" height="100" alt="Abdul Kaiyum Fahim"/>  
