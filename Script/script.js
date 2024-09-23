@@ -5,7 +5,7 @@ const contributorList = document.getElementById('contributor-list');
 // Replace this array with your contributor data (name and GitHub profile link)
 const contributors = [
    
-    { name: 'jobayermannan', github: 'https://api.github.com/users/jobayermannan' },
+{ name: 'jobayermannan', github: 'https://api.github.com/users/jobayermannan' },
  { name: 'coding-struggles', github: 'https://api.github.com/users/coding-struggles' },   
  { name: 'Code-x-777', github: 'https://api.github.com/users/Code-x-777' },   
  { name: 'kaiyumdev', github: 'https://api.github.com/users/kaiyumdev' },  

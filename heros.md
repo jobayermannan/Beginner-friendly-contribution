@@ -5,7 +5,7 @@
 <!-- contributor heros table  -->
 <div>
 <table>
-    <tr>
+    
         <td align="center">
             <a href="https://github.com/coding-struggles">
                 <img src="https://avatars.githubusercontent.com/u/146979710?v=4" width="150" height="150" alt="Coding Struggles">
@@ -72,7 +72,7 @@
             </a>
         </td>
 </td>
-    <tr/>
+    
    
     
 </table>
